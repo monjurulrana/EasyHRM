@@ -14,6 +14,8 @@ namespace BeeHRM.Repository
     
     public partial class AppConfig
     {
+
+        //test monju
         public int ConfigId { get; set; }
         public string ConfigKey { get; set; }
         public string ConfigValue { get; set; }

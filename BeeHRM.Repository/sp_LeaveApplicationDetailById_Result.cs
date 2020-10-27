@@ -13,6 +13,10 @@ namespace BeeHRM.Repository
     
     public partial class sp_LeaveApplicationDetailById_Result
     {
+
+
+
+
         public int LeaveId { get; set; }
         public int LeaveStatus { get; set; }
         public System.DateTime LeaveStartDate { get; set; }
