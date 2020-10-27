@@ -14,6 +14,7 @@ namespace BeeHRM.Repository
     
     public partial class AppLicense
     {
+        //monju test 3
         public int LicenseId { get; set; }
         public string LicenseKey { get; set; }
         public Nullable<System.DateTime> LicenseDate { get; set; }

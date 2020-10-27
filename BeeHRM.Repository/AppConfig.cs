@@ -19,6 +19,8 @@ namespace BeeHRM.Repository
 
         //test monju 2
 
+             //test monju 3
+
         public int ConfigId { get; set; }
         public string ConfigKey { get; set; }
         public string ConfigValue { get; set; }
