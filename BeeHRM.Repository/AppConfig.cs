@@ -26,6 +26,8 @@ namespace BeeHRM.Repository
 
          //test monju 5 for web change
         
+        //test nazrul 6 for web change
+        
         public int ConfigId { get; set; }
         public string ConfigKey { get; set; }
         public string ConfigValue { get; set; }
