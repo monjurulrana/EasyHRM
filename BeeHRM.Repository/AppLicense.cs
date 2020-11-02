@@ -14,10 +14,8 @@ namespace BeeHRM.Repository
     
     public partial class AppLicense
     {
-        //monju test 3
-
-            //test monju 4 for push
-
+        //monju test 1
+               
 
         public int LicenseId { get; set; }
         public string LicenseKey { get; set; }
